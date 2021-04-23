@@ -3,11 +3,12 @@ const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
 const workoutdb = new Schema({
-    currentday: {
+    
+    day: {
       
     },
 
-    workouts: [
+    exercises: [                  
         {
             
                
