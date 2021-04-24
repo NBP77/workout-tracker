@@ -20,17 +20,20 @@ To check the project, I worked on click on these links:
 
 GitHub: https://github.com/NBP77/workout-tracker
 
-Deployed app: 
+Deployed app: https://whispering-atoll-78792.herokuapp.com/?id=60838f701707ec0015ec6a16 
 
 ## Usage
 
-![alt text](./imgs/GET-products.png)
+Add Page 
+![add page](./imgs/add-exercise.png)
 
-![alt text](./imgs/GET-products.png)
+View current workout page
+![view current workout page](./imgs/view-workout.png)
 
-![alt text](./imgs/GET-products.png)
+Stats page
+![stats page](./imgs/stats.png)
 
-Technologies:
+## Technologies:
 
 -MongoDB/Mongoose
 
